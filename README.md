@@ -1,1 +1,0 @@
-# Calcular-M-dia
